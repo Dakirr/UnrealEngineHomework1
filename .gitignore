@@ -1,0 +1,34 @@
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Rider files
+.idea/
+*.iml
+
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Binary files
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.exe
+*.lib
+*.so
+*.dylib
+
+# Logs
+*.log
